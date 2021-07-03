@@ -1,0 +1,9 @@
+.esconder {
+    border: 5px solid #f2a900;
+    display: none;
+  }
+  
+.ingredientes:hover + .esconder {
+    display: block;
+    
+  }
